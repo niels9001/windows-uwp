@@ -19,7 +19,7 @@ Fluent Design guidelines and UI code examples for creating app experiences on Wi
     :::column:::
         <a href="downloads/index.md">
             <img src="images/downloads-1x.png" alt="Design downloads" />
-        </a><br/>
+        </a>
         <h3><a href="downloads/index.md">Design downloads</a></h3>
         Get design toolkits and samples.
     :::column-end:::
